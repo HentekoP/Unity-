@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_5c702a97dbb77c6c5107a2ea29a7abed" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Project/Scripts/Weapon</compoundname>
+    <innerfile refid="_fire_gun_8cs">FireGun.cs</innerfile>
+    <innerfile refid="_fire_gun_alt_8cs">FireGunAlt.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Project/Scripts/Weapon/"/>
+  </compounddef>
+</doxygen>

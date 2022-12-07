@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_bf3a62a62a41c395744c5e86d95aec30" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters/ThirdPersonCharacter/Scripts</compoundname>
+    <innerfile refid="_a_i_character_control_8cs">AICharacterControl.cs</innerfile>
+    <innerfile refid="_third_person_character_8cs">ThirdPersonCharacter.cs</innerfile>
+    <innerfile refid="_third_person_user_control_8cs">ThirdPersonUserControl.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters/ThirdPersonCharacter/Scripts/"/>
+  </compounddef>
+</doxygen>

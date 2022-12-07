@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_77f14a93062a082b1ad341892654778e" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/MoveMotionPack</compoundname>
+    <innerdir refid="dir_77ef85fdca14c1a0551474647e00454b">D:/unity/Team2-4A/Assets/MoveMotionPack/SampleScene</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/MoveMotionPack/"/>
+  </compounddef>
+</doxygen>

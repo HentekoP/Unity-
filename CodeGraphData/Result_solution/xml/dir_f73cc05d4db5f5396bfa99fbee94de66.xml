@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_f73cc05d4db5f5396bfa99fbee94de66" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets</compoundname>
+    <innerdir refid="dir_716718bde153cf0179dd4a276c5f118d">D:/unity/Team2-4A/Assets/AssetStoreOriginals</innerdir>
+    <innerdir refid="dir_0593733db34facb3d8d74d572e2cb29c">D:/unity/Team2-4A/Assets/BrokenVector</innerdir>
+    <innerdir refid="dir_a9369d53b545be7c4d7ac5dc2ae3d704">D:/unity/Team2-4A/Assets/JMO Assets</innerdir>
+    <innerdir refid="dir_77f14a93062a082b1ad341892654778e">D:/unity/Team2-4A/Assets/MoveMotionPack</innerdir>
+    <innerdir refid="dir_14419e076c46e4fc635790f9620116f6">D:/unity/Team2-4A/Assets/PlayerScript</innerdir>
+    <innerdir refid="dir_d10249e8b9dbc91c9f63a7441e0724e5">D:/unity/Team2-4A/Assets/Plugin</innerdir>
+    <innerdir refid="dir_183a1a73c3a946d9b764b23f2597a8d5">D:/unity/Team2-4A/Assets/Project</innerdir>
+    <innerdir refid="dir_9d70859bed9064095759dc6db8667dc0">D:/unity/Team2-4A/Assets/SampleScenes</innerdir>
+    <innerdir refid="dir_b898b0c9af776ac53fa7eb8538db0407">D:/unity/Team2-4A/Assets/Script</innerdir>
+    <innerdir refid="dir_37cc8314a9388547cafaf6c77e611dfe">D:/unity/Team2-4A/Assets/TextMesh Pro</innerdir>
+    <innerdir refid="dir_f44b4f8b5b81fafba9f04927356c0860">D:/unity/Team2-4A/Assets/Tools</innerdir>
+    <innerdir refid="dir_1e5075ac1e603a9d679eba6f86a3b5ad">D:/unity/Team2-4A/Assets/unity-chan!</innerdir>
+    <innerfile refid="debugsene_8cs">debugsene.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/"/>
+  </compounddef>
+</doxygen>

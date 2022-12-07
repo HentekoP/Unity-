@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_ca1dc4c7cdf9540426149efa2eaf1452" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/Editor/CrossPlatformInput</compoundname>
+    <innerfile refid="_cross_platform_input_initialize_8cs">CrossPlatformInputInitialize.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/Editor/CrossPlatformInput/"/>
+  </compounddef>
+</doxygen>

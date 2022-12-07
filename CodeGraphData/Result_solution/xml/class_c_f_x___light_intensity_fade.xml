@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_c_f_x___light_intensity_fade" kind="class" prot="public">
+    <compoundname>CFX_LightIntensityFade</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">MonoBehaviour</basecompoundref>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a89ccd5a4c2f8edc526d4f2c0ce0e0a9c" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.duration</definition>
+        <argsstring></argsstring>
+        <name>duration</name>
+        <initializer>= 1.0f</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="11" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="11" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1aad612fec2f31341eb0bd10445e2d00be" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.delay</definition>
+        <argsstring></argsstring>
+        <name>delay</name>
+        <initializer>= 0.0f</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="14" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1af30f1eb5baed59b5ecdec2b4b3972ece" compoundref="_c_f_x___light_intensity_fade_8cs" startline="33" endline="38">OnEnable</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a32876af8e1dabdf92235be933a518290" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.finalIntensity</definition>
+        <argsstring></argsstring>
+        <name>finalIntensity</name>
+        <initializer>= 0.0f</initializer>
+        <briefdescription>
+<para>Final intensity of the light. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="17" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="17" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a2afc0f55cb6a90b703e034a1fd6ad301" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool CFX_LightIntensityFade.autodestruct</definition>
+        <argsstring></argsstring>
+        <name>autodestruct</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="23" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="23" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a09d82f2218fc41464dd843339239cfa0" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.baseIntensity</definition>
+        <argsstring></argsstring>
+        <name>baseIntensity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="20" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="20" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1a57a85edd6bdfb561c0e8afd0b74a4cd3" compoundref="_c_f_x___light_intensity_fade_8cs" startline="28" endline="31">Start</referencedby>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a6f7fe36cb3a1594c63b61bede0ce8f41" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.p_lifetime</definition>
+        <argsstring></argsstring>
+        <name>p_lifetime</name>
+        <initializer>= 0.0f</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="25" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="25" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1af30f1eb5baed59b5ecdec2b4b3972ece" compoundref="_c_f_x___light_intensity_fade_8cs" startline="33" endline="38">OnEnable</referencedby>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_c_f_x___light_intensity_fade_1a775594de2c39a9098354f1ce67afdc5e" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float CFX_LightIntensityFade.p_delay</definition>
+        <argsstring></argsstring>
+        <name>p_delay</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="26" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="26" bodyend="-1"/>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1af30f1eb5baed59b5ecdec2b4b3972ece" compoundref="_c_f_x___light_intensity_fade_8cs" startline="33" endline="38">OnEnable</referencedby>
+        <referencedby refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" compoundref="_c_f_x___light_intensity_fade_8cs" startline="40" endline="62">Update</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_c_f_x___light_intensity_fade_1a57a85edd6bdfb561c0e8afd0b74a4cd3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CFX_LightIntensityFade.Start</definition>
+        <argsstring>()</argsstring>
+        <name>Start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="28" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="28" bodyend="31"/>
+        <references refid="class_c_f_x___light_intensity_fade_1a09d82f2218fc41464dd843339239cfa0" compoundref="_c_f_x___light_intensity_fade_8cs" startline="20">baseIntensity</references>
+      </memberdef>
+      <memberdef kind="function" id="class_c_f_x___light_intensity_fade_1af30f1eb5baed59b5ecdec2b4b3972ece" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CFX_LightIntensityFade.OnEnable</definition>
+        <argsstring>()</argsstring>
+        <name>OnEnable</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="33" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="33" bodyend="38"/>
+        <references refid="class_c_f_x___light_intensity_fade_1aad612fec2f31341eb0bd10445e2d00be" compoundref="_c_f_x___light_intensity_fade_8cs" startline="14">delay</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a775594de2c39a9098354f1ce67afdc5e" compoundref="_c_f_x___light_intensity_fade_8cs" startline="26">p_delay</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a6f7fe36cb3a1594c63b61bede0ce8f41" compoundref="_c_f_x___light_intensity_fade_8cs" startline="25">p_lifetime</references>
+      </memberdef>
+      <memberdef kind="function" id="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void CFX_LightIntensityFade.Update</definition>
+        <argsstring>()</argsstring>
+        <name>Update</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="40" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="40" bodyend="62"/>
+        <references refid="class_c_f_x___light_intensity_fade_1a2afc0f55cb6a90b703e034a1fd6ad301" compoundref="_c_f_x___light_intensity_fade_8cs" startline="23">autodestruct</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a09d82f2218fc41464dd843339239cfa0" compoundref="_c_f_x___light_intensity_fade_8cs" startline="20">baseIntensity</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a89ccd5a4c2f8edc526d4f2c0ce0e0a9c" compoundref="_c_f_x___light_intensity_fade_8cs" startline="11">duration</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a32876af8e1dabdf92235be933a518290" compoundref="_c_f_x___light_intensity_fade_8cs" startline="17">finalIntensity</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a775594de2c39a9098354f1ce67afdc5e" compoundref="_c_f_x___light_intensity_fade_8cs" startline="26">p_delay</references>
+        <references refid="class_c_f_x___light_intensity_fade_1a6f7fe36cb3a1594c63b61bede0ce8f41" compoundref="_c_f_x___light_intensity_fade_8cs" startline="25">p_lifetime</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="465">
+        <label>CFX_LightIntensityFade</label>
+        <link refid="class_c_f_x___light_intensity_fade"/>
+        <childnode refid="466" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="466">
+        <label>MonoBehaviour</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="467">
+        <label>CFX_LightIntensityFade</label>
+        <link refid="class_c_f_x___light_intensity_fade"/>
+        <childnode refid="468" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="468">
+        <label>MonoBehaviour</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" line="9" column="1" bodyfile="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" bodystart="8" bodyend="63"/>
+    <listofallmembers>
+      <member refid="class_c_f_x___light_intensity_fade_1a2afc0f55cb6a90b703e034a1fd6ad301" prot="public" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>autodestruct</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a09d82f2218fc41464dd843339239cfa0" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>baseIntensity</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1aad612fec2f31341eb0bd10445e2d00be" prot="public" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>delay</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a89ccd5a4c2f8edc526d4f2c0ce0e0a9c" prot="public" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>duration</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a32876af8e1dabdf92235be933a518290" prot="public" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>finalIntensity</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1af30f1eb5baed59b5ecdec2b4b3972ece" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>OnEnable</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a775594de2c39a9098354f1ce67afdc5e" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>p_delay</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a6f7fe36cb3a1594c63b61bede0ce8f41" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>p_lifetime</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1a57a85edd6bdfb561c0e8afd0b74a4cd3" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>Start</name></member>
+      <member refid="class_c_f_x___light_intensity_fade_1afcb9b94435abb41520833a83d214ed3a" prot="private" virt="non-virtual"><scope>CFX_LightIntensityFade</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

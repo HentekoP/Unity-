@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_102243a8f68e3c70d3ee81e4a8531b52" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets</compoundname>
+    <innerdir refid="dir_5e46fff101218ae9afe483510886d881">D:/unity/Team2-4A/Assets/Tools/Standard Assets/2D</innerdir>
+    <innerdir refid="dir_10df3cfd4bebf51441e60a0278a79252">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Cameras</innerdir>
+    <innerdir refid="dir_ec6c2ee9d1efd1f7e18cf8cb4e4c60f1">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters</innerdir>
+    <innerdir refid="dir_5803d942edf86a170b84b140a320c538">D:/unity/Team2-4A/Assets/Tools/Standard Assets/CrossPlatformInput</innerdir>
+    <innerdir refid="dir_6ff390f0a201103a715b1d9677661ebe">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Editor</innerdir>
+    <innerdir refid="dir_e294aada0024c6776b2d015e6cdc1a00">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Environment</innerdir>
+    <innerdir refid="dir_d5b230b0e6e175c75fce77e35441128c">D:/unity/Team2-4A/Assets/Tools/Standard Assets/ParticleSystems</innerdir>
+    <innerdir refid="dir_2f64cd8524c25c3d9553cbc9f298a8c0">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Utility</innerdir>
+    <innerdir refid="dir_316c39a6678805952550987ba6512fcd">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Vehicles</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/"/>
+  </compounddef>
+</doxygen>

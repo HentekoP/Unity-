@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_5e47353c155e117718a8a15c39b503cb" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/Vehicles/Aircraft</compoundname>
+    <innerdir refid="dir_54176f8d1614eb373f1f0549eef02b2d">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Vehicles/Aircraft/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/Vehicles/Aircraft/"/>
+  </compounddef>
+</doxygen>

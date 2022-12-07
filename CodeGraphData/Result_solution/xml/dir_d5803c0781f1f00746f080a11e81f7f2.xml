@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_d5803c0781f1f00746f080a11e81f7f2" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/JMO Assets/WarFX</compoundname>
+    <innerdir refid="dir_1dd786942afbed353da906ff430d7682">D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Demo</innerdir>
+    <innerdir refid="dir_c2778a3346a1cc1e75f8682fe3d733f9">D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Editor</innerdir>
+    <innerdir refid="dir_805863a365f6f083e6a50ae5e5f38b2f">D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Scripts</innerdir>
+    <innerdir refid="dir_25a6b54c47fff2f7b499674037d34ef2">D:/unity/Team2-4A/Assets/JMO Assets/WarFX/Spawn System</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/JMO Assets/WarFX/"/>
+  </compounddef>
+</doxygen>

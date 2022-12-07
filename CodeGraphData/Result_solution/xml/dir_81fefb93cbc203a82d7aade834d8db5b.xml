@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_81fefb93cbc203a82d7aade834d8db5b" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Script/Scripts</compoundname>
+    <innerdir refid="dir_14d20b83141d07660f6bcd88da84e425">D:/unity/Team2-4A/Assets/Script/Scripts/HAKAI</innerdir>
+    <innerfile refid="_debug_cut_interaction_8cs">DebugCutInteraction.cs</innerfile>
+    <innerfile refid="_drop_demo_objects_8cs">DropDemoObjects.cs</innerfile>
+    <innerfile refid="_mesh_cutter_8cs">MeshCutter.cs</innerfile>
+    <innerfile refid="_mesh_cutter_manager_8cs">MeshCutterManager.cs</innerfile>
+    <innerfile refid="_mesh_data_8cs">MeshData.cs</innerfile>
+    <innerfile refid="_mono_singleton_8cs">MonoSingleton.cs</innerfile>
+    <innerfile refid="_movement_8cs">Movement.cs</innerfile>
+    <innerfile refid="_object_material_8cs">ObjectMaterial.cs</innerfile>
+    <innerfile refid="_object_material_manager_8cs">ObjectMaterialManager.cs</innerfile>
+    <innerfile refid="_triangle_8cs">Triangle.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Script/Scripts/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_f102839cf90cfefd794ec335cf2f90af" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/PropertyDrawers</compoundname>
+    <innerfile refid="_get_set_drawer_8cs">GetSetDrawer.cs</innerfile>
+    <innerfile refid="_min_drawer_8cs">MinDrawer.cs</innerfile>
+    <innerfile refid="_trackball_group_drawer_8cs">TrackballGroupDrawer.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/PropertyDrawers/"/>
+  </compounddef>
+</doxygen>

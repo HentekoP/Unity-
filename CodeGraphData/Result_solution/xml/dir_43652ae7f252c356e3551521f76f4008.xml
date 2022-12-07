@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_43652ae7f252c356e3551521f76f4008" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Utils</compoundname>
+    <innerfile refid="_color_grading_curve_8cs">ColorGradingCurve.cs</innerfile>
+    <innerfile refid="_graphics_utils_8cs">GraphicsUtils.cs</innerfile>
+    <innerfile refid="_material_factory_8cs">MaterialFactory.cs</innerfile>
+    <innerfile refid="_render_texture_factory_8cs">RenderTextureFactory.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Utils/"/>
+  </compounddef>
+</doxygen>

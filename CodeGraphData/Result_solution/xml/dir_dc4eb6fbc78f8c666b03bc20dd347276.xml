@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_dc4eb6fbc78f8c666b03bc20dd347276" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime</compoundname>
+    <innerdir refid="dir_18608e5fd35d48bfa46854825ea029b2">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Attributes</innerdir>
+    <innerdir refid="dir_17838c9429e2657bf3f5c4274852f676">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Components</innerdir>
+    <innerdir refid="dir_04e559ab8b5e0883b82a25070f950db9">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Models</innerdir>
+    <innerdir refid="dir_43652ae7f252c356e3551521f76f4008">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/Utils</innerdir>
+    <innerfile refid="_post_processing_behaviour_8cs">PostProcessingBehaviour.cs</innerfile>
+    <innerfile refid="_post_processing_component_8cs">PostProcessingComponent.cs</innerfile>
+    <innerfile refid="_post_processing_context_8cs">PostProcessingContext.cs</innerfile>
+    <innerfile refid="_post_processing_model_8cs">PostProcessingModel.cs</innerfile>
+    <innerfile refid="_post_processing_profile_8cs">PostProcessingProfile.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/PostProcessing/Runtime/"/>
+  </compounddef>
+</doxygen>

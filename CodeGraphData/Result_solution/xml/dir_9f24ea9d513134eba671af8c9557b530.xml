@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_9f24ea9d513134eba671af8c9557b530" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model</compoundname>
+    <innerdir refid="dir_f0ad90f2985d8aa3982c6685d2218de9">D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/Editor</innerdir>
+    <innerdir refid="dir_1b85769c8c7274a58a57a1171951688b">D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/Scripts</innerdir>
+    <innerdir refid="dir_2507b5a4f058944fd34e503bcc53f8a8">D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/SplashScreen</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/"/>
+  </compounddef>
+</doxygen>

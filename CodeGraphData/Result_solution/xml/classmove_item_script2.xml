@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classmove_item_script2" kind="class" prot="public">
+    <compoundname>moveItemScript2</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">MonoBehaviour</basecompoundref>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classmove_item_script2_1a3aae316095b748fb2cf419e1e98f1abf" prot="public" static="no" mutable="no">
+        <type>GameObject</type>
+        <definition>GameObject moveItemScript2.player</definition>
+        <argsstring></argsstring>
+        <name>player</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="8" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="8" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a829358e4cfb048c77a4398c7008dd0ea" prot="public" static="no" mutable="no">
+        <type>Text</type>
+        <definition>Text moveItemScript2.itemText1</definition>
+        <argsstring></argsstring>
+        <name>itemText1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="9" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a49218fffe2e680b42076f3bce9fde60b" prot="public" static="no" mutable="no">
+        <type>Image</type>
+        <definition>Image moveItemScript2.stage_1</definition>
+        <argsstring></argsstring>
+        <name>stage_1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="10" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmove_item_script2_1a9c95d16b7dc6226524b4c6c90576380e" prot="private" static="no" mutable="no">
+        <type>Text</type>
+        <definition>Text moveItemScript2.itemText2</definition>
+        <argsstring></argsstring>
+        <name>itemText2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="9" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a034f50ba2122b81db39e4ed91b80e827" prot="private" static="no" mutable="no">
+        <type>LayerMask</type>
+        <definition>LayerMask moveItemScript2.mask</definition>
+        <argsstring></argsstring>
+        <name>mask</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="12" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="12" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a37c1f31e8722add5a78a7d2d93650f7b" compoundref="move_item_script2_8cs" startline="26" endline="38">Start</referencedby>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a4015eb18e9fe22485267dc76c5128f93" prot="private" static="no" mutable="no">
+        <type>GameObject</type>
+        <definition>GameObject moveItemScript2.item1</definition>
+        <argsstring></argsstring>
+        <name>item1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="13" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="13" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a0e0cfc7b707f62e4d2680d41d799397b" prot="private" static="no" mutable="no">
+        <type>RaycastHit</type>
+        <definition>RaycastHit moveItemScript2.hit</definition>
+        <argsstring></argsstring>
+        <name>hit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="14" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="14" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a406eded281f9107553b67db748b92b44" prot="private" static="no" mutable="no">
+        <type><ref refid="class_cube_script2" kindref="compound">CubeScript2</ref></type>
+        <definition>CubeScript2 moveItemScript2.sc_item1</definition>
+        <argsstring></argsstring>
+        <name>sc_item1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="16" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1aefe28b5849a63f41b0ad4cd789d04684" prot="private" static="no" mutable="no">
+        <type>Vector3</type>
+        <definition>Vector3 moveItemScript2.item_up</definition>
+        <argsstring></argsstring>
+        <name>item_up</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="18" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a81e8345a58878c74652496f0f6a97651" prot="private" static="no" mutable="no">
+        <type>Rigidbody</type>
+        <definition>Rigidbody moveItemScript2.rb_item1</definition>
+        <argsstring></argsstring>
+        <name>rb_item1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="19" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="19" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1a4e4185405c8f0aabd5e9e077221ca200" prot="private" static="no" mutable="no">
+        <type>Collider</type>
+        <definition>Collider moveItemScript2.col_item1</definition>
+        <argsstring></argsstring>
+        <name>col_item1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="20" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="20" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmove_item_script2_1aebdcd8cf0ace3334ed8bd77f1f52233a" prot="private" static="no" mutable="no">
+        <type>AudioClip[]</type>
+        <definition>AudioClip [] moveItemScript2.se</definition>
+        <argsstring></argsstring>
+        <name>se</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="22" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="22" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmove_item_script2_1a5b362bf9b54057d78ee0c9d1059271a6" prot="public" static="yes" mutable="no">
+        <type>bool</type>
+        <definition>bool moveItemScript2.grab</definition>
+        <argsstring></argsstring>
+        <name>grab</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="17" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="17" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a79299b05f94a2140c140b481bb5b1da0" compoundref="move_item_script2_8cs" startline="119" endline="122">GetGrabFlg</referencedby>
+        <referencedby refid="classmove_item_script2_1a37c1f31e8722add5a78a7d2d93650f7b" compoundref="move_item_script2_8cs" startline="26" endline="38">Start</referencedby>
+        <referencedby refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" compoundref="move_item_script2_8cs" startline="41" endline="118">Update</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classmove_item_script2_1a2cde9175b329e5c7570e0f376cd1027d" prot="protected" static="no" mutable="no">
+        <type>AudioSource</type>
+        <definition>AudioSource moveItemScript2.source</definition>
+        <argsstring></argsstring>
+        <name>source</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="23" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="23" bodyend="-1"/>
+        <referencedby refid="classmove_item_script2_1a37c1f31e8722add5a78a7d2d93650f7b" compoundref="move_item_script2_8cs" startline="26" endline="38">Start</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmove_item_script2_1a37c1f31e8722add5a78a7d2d93650f7b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void moveItemScript2.Start</definition>
+        <argsstring>()</argsstring>
+        <name>Start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="26" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="26" bodyend="38"/>
+        <references refid="classmove_item_script2_1a5b362bf9b54057d78ee0c9d1059271a6" compoundref="move_item_script2_8cs" startline="17">grab</references>
+        <references refid="classmove_item_script2_1a034f50ba2122b81db39e4ed91b80e827" compoundref="move_item_script2_8cs" startline="12">mask</references>
+        <references refid="classmove_item_script2_1a2cde9175b329e5c7570e0f376cd1027d" compoundref="move_item_script2_8cs" startline="23">source</references>
+      </memberdef>
+      <memberdef kind="function" id="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void moveItemScript2.Update</definition>
+        <argsstring>()</argsstring>
+        <name>Update</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="41" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="41" bodyend="118"/>
+        <references refid="classmove_item_script2_1a4e4185405c8f0aabd5e9e077221ca200" compoundref="move_item_script2_8cs" startline="20">col_item1</references>
+        <references refid="classmove_item_script2_1a5b362bf9b54057d78ee0c9d1059271a6" compoundref="move_item_script2_8cs" startline="17">grab</references>
+        <references refid="classmove_item_script2_1a0e0cfc7b707f62e4d2680d41d799397b" compoundref="move_item_script2_8cs" startline="14">hit</references>
+        <references refid="classmove_item_script2_1a4015eb18e9fe22485267dc76c5128f93" compoundref="move_item_script2_8cs" startline="13">item1</references>
+        <references refid="classmove_item_script2_1a034f50ba2122b81db39e4ed91b80e827" compoundref="move_item_script2_8cs" startline="12">mask</references>
+        <references refid="classmove_item_script2_1a3aae316095b748fb2cf419e1e98f1abf" compoundref="move_item_script2_8cs" startline="8">player</references>
+        <references refid="classmove_item_script2_1a81e8345a58878c74652496f0f6a97651" compoundref="move_item_script2_8cs" startline="19">rb_item1</references>
+        <references refid="classmove_item_script2_1a406eded281f9107553b67db748b92b44" compoundref="move_item_script2_8cs" startline="16">sc_item1</references>
+        <references refid="classmove_item_script2_1aebdcd8cf0ace3334ed8bd77f1f52233a" compoundref="move_item_script2_8cs" startline="22">se</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classmove_item_script2_1a79299b05f94a2140c140b481bb5b1da0" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool moveItemScript2.GetGrabFlg</definition>
+        <argsstring>()</argsstring>
+        <name>GetGrabFlg</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="119" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="119" bodyend="122"/>
+        <references refid="classmove_item_script2_1a5b362bf9b54057d78ee0c9d1059271a6" compoundref="move_item_script2_8cs" startline="17">grab</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1540">
+        <label>moveItemScript2</label>
+        <link refid="classmove_item_script2"/>
+        <childnode refid="1541" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1541">
+        <label>MonoBehaviour</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1542">
+        <label>moveItemScript2</label>
+        <link refid="classmove_item_script2"/>
+        <childnode refid="1543" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1544" relation="usage">
+          <edgelabel>itemText1</edgelabel>
+          <edgelabel>itemText2</edgelabel>
+        </childnode>
+        <childnode refid="1545" relation="usage">
+          <edgelabel>sc_item1</edgelabel>
+        </childnode>
+      </node>
+      <node id="1544">
+        <label>Text</label>
+      </node>
+      <node id="1543">
+        <label>MonoBehaviour</label>
+      </node>
+      <node id="1545">
+        <label>CubeScript2</label>
+        <link refid="class_cube_script2"/>
+        <childnode refid="1543" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" line="7" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/moveItemScript2.cs" bodystart="6" bodyend="123"/>
+    <listofallmembers>
+      <member refid="classmove_item_script2_1a4e4185405c8f0aabd5e9e077221ca200" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>col_item1</name></member>
+      <member refid="classmove_item_script2_1a79299b05f94a2140c140b481bb5b1da0" prot="public" virt="non-virtual"><scope>moveItemScript2</scope><name>GetGrabFlg</name></member>
+      <member refid="classmove_item_script2_1a5b362bf9b54057d78ee0c9d1059271a6" prot="public" virt="non-virtual"><scope>moveItemScript2</scope><name>grab</name></member>
+      <member refid="classmove_item_script2_1a0e0cfc7b707f62e4d2680d41d799397b" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>hit</name></member>
+      <member refid="classmove_item_script2_1a4015eb18e9fe22485267dc76c5128f93" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>item1</name></member>
+      <member refid="classmove_item_script2_1aefe28b5849a63f41b0ad4cd789d04684" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>item_up</name></member>
+      <member refid="classmove_item_script2_1a829358e4cfb048c77a4398c7008dd0ea" prot="public" virt="non-virtual"><scope>moveItemScript2</scope><name>itemText1</name></member>
+      <member refid="classmove_item_script2_1a9c95d16b7dc6226524b4c6c90576380e" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>itemText2</name></member>
+      <member refid="classmove_item_script2_1a034f50ba2122b81db39e4ed91b80e827" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>mask</name></member>
+      <member refid="classmove_item_script2_1a3aae316095b748fb2cf419e1e98f1abf" prot="public" virt="non-virtual"><scope>moveItemScript2</scope><name>player</name></member>
+      <member refid="classmove_item_script2_1a81e8345a58878c74652496f0f6a97651" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>rb_item1</name></member>
+      <member refid="classmove_item_script2_1a406eded281f9107553b67db748b92b44" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>sc_item1</name></member>
+      <member refid="classmove_item_script2_1aebdcd8cf0ace3334ed8bd77f1f52233a" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>se</name></member>
+      <member refid="classmove_item_script2_1a2cde9175b329e5c7570e0f376cd1027d" prot="protected" virt="non-virtual"><scope>moveItemScript2</scope><name>source</name></member>
+      <member refid="classmove_item_script2_1a49218fffe2e680b42076f3bce9fde60b" prot="public" virt="non-virtual"><scope>moveItemScript2</scope><name>stage_1</name></member>
+      <member refid="classmove_item_script2_1a37c1f31e8722add5a78a7d2d93650f7b" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>Start</name></member>
+      <member refid="classmove_item_script2_1a3b3209731378896dbfc2c211606985b4" prot="private" virt="non-virtual"><scope>moveItemScript2</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

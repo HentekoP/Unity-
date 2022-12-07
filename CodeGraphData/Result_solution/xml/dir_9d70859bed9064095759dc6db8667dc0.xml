@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_9d70859bed9064095759dc6db8667dc0" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/SampleScenes</compoundname>
+    <innerdir refid="dir_1b0ef74c451897d8d4bc4d76f895363d">D:/unity/Team2-4A/Assets/SampleScenes/Menu</innerdir>
+    <innerdir refid="dir_c18fdf969ff5af75f9deccb5b6ef5fce">D:/unity/Team2-4A/Assets/SampleScenes/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/SampleScenes/"/>
+  </compounddef>
+</doxygen>

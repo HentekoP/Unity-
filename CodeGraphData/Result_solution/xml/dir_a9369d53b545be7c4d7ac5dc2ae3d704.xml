@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_a9369d53b545be7c4d7ac5dc2ae3d704" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/JMO Assets</compoundname>
+    <innerdir refid="dir_282ae39f001c17c08c5ea9c65e33f9ed">D:/unity/Team2-4A/Assets/JMO Assets/Cartoon FX Easy Editor</innerdir>
+    <innerdir refid="dir_d5803c0781f1f00746f080a11e81f7f2">D:/unity/Team2-4A/Assets/JMO Assets/WarFX</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/JMO Assets/"/>
+  </compounddef>
+</doxygen>

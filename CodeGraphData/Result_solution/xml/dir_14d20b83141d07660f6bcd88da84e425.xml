@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_14d20b83141d07660f6bcd88da84e425" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Script/Scripts/HAKAI</compoundname>
+    <innerdir refid="dir_b78c57820ba664a378b8ebd72b1b8e10">D:/unity/Team2-4A/Assets/Script/Scripts/HAKAI/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Script/Scripts/HAKAI/"/>
+  </compounddef>
+</doxygen>

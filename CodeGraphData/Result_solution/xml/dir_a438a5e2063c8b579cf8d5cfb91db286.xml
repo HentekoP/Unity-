@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_a438a5e2063c8b579cf8d5cfb91db286" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/NvBlast/Plugins</compoundname>
+    <innerfile refid="_nv_blast_8cs">NvBlast.cs</innerfile>
+    <innerfile refid="_nv_blast_ext_unity_8cs">NvBlastExtUnity.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/NvBlast/Plugins/"/>
+  </compounddef>
+</doxygen>

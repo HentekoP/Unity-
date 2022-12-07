@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_e294aada0024c6776b2d015e6cdc1a00" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/Environment</compoundname>
+    <innerdir refid="dir_4d74d3f71a46f889eda1b5f6a90840b3">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Environment/Water</innerdir>
+    <innerdir refid="dir_2f54bacef9be7e2e7245082daae30085">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Environment/Water (Basic)</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/Environment/"/>
+  </compounddef>
+</doxygen>

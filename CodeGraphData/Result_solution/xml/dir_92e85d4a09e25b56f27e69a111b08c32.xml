@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_92e85d4a09e25b56f27e69a111b08c32" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets</compoundname>
+    <innerdir refid="dir_ec08557560ff0d76ff2baf8e2b701c84">D:/unity/Team2-4A/Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About</innerdir>
+    <innerdir refid="dir_58bb26d867375061b9b7eb788c5bfacc">D:/unity/Team2-4A/Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/"/>
+  </compounddef>
+</doxygen>

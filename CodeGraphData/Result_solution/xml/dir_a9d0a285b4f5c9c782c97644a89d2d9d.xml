@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_a9d0a285b4f5c9c782c97644a89d2d9d" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/SplashScreen/Scripts</compoundname>
+    <innerfile refid="_splash_screen_8cs">SplashScreen.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/unity-chan!/Unity-chan! Model/SplashScreen/Scripts/"/>
+  </compounddef>
+</doxygen>

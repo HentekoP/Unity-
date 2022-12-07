@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_92f5b984b951c7128256ba1d0de07994" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Project/Scripts</compoundname>
+    <innerdir refid="dir_35c72606f74bb061eae91b3708e97c4d">D:/unity/Team2-4A/Assets/Project/Scripts/Fractures</innerdir>
+    <innerdir refid="dir_d6b956dc0c6834b357e1639ccc74e392">D:/unity/Team2-4A/Assets/Project/Scripts/Utils</innerdir>
+    <innerdir refid="dir_5c702a97dbb77c6c5107a2ea29a7abed">D:/unity/Team2-4A/Assets/Project/Scripts/Weapon</innerdir>
+    <innerfile refid="_fracture_this_8cs">FractureThis.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Project/Scripts/"/>
+  </compounddef>
+</doxygen>

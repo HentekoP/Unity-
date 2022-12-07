@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_f44b4f8b5b81fafba9f04927356c0860" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools</compoundname>
+    <innerdir refid="dir_c0504accd45615e1656efbf9dc73f29e">D:/unity/Team2-4A/Assets/Tools/NvBlast</innerdir>
+    <innerdir refid="dir_3f921fe3c9828f68c380112a65a8ee7f">D:/unity/Team2-4A/Assets/Tools/PostProcessing</innerdir>
+    <innerdir refid="dir_102243a8f68e3c70d3ee81e4a8531b52">D:/unity/Team2-4A/Assets/Tools/Standard Assets</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/"/>
+  </compounddef>
+</doxygen>

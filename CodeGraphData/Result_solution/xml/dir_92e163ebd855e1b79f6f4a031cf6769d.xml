@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_92e163ebd855e1b79f6f4a031cf6769d" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor</compoundname>
+    <innerdir refid="dir_cecade307f63f1fd831d4a118ce96cc6">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/Attributes</innerdir>
+    <innerdir refid="dir_7349e7f98b1af679255cdb07add47a45">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/Models</innerdir>
+    <innerdir refid="dir_76ff86ff0076e5720514ab6d0d813bb7">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/Monitors</innerdir>
+    <innerdir refid="dir_f102839cf90cfefd794ec335cf2f90af">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/PropertyDrawers</innerdir>
+    <innerdir refid="dir_f0dc8a8a4d836aa71045a0d451ae877a">D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/Utils</innerdir>
+    <innerfile refid="_post_processing_behaviour_editor_8cs">PostProcessingBehaviourEditor.cs</innerfile>
+    <innerfile refid="_post_processing_factory_8cs">PostProcessingFactory.cs</innerfile>
+    <innerfile refid="_post_processing_inspector_8cs">PostProcessingInspector.cs</innerfile>
+    <innerfile refid="_post_processing_model_editor_8cs">PostProcessingModelEditor.cs</innerfile>
+    <innerfile refid="_post_processing_monitor_8cs">PostProcessingMonitor.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/PostProcessing/Editor/"/>
+  </compounddef>
+</doxygen>

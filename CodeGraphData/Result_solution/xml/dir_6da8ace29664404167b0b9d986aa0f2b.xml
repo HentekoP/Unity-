@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_6da8ace29664404167b0b9d986aa0f2b" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters/RollerBall</compoundname>
+    <innerdir refid="dir_c52416dc29cd369736804eef91ab82d1">D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters/RollerBall/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/Characters/RollerBall/"/>
+  </compounddef>
+</doxygen>

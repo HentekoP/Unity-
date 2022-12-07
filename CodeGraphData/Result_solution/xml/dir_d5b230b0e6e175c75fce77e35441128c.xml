@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_d5b230b0e6e175c75fce77e35441128c" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/Tools/Standard Assets/ParticleSystems</compoundname>
+    <innerdir refid="dir_5f27b4a615d269250a5e7466ef25507a">D:/unity/Team2-4A/Assets/Tools/Standard Assets/ParticleSystems/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/Tools/Standard Assets/ParticleSystems/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_next__scene" kind="class" prot="public">
+    <compoundname>Next_scene</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">MonoBehaviour</basecompoundref>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_next__scene_1a0b13c41dde4edb0d25e4090d5624f413" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Next_scene.Start</definition>
+        <argsstring>()</argsstring>
+        <name>Start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" line="9" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_next__scene_1af5c0b18a3ef8e871a9848ae16d10436f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Next_scene.Update</definition>
+        <argsstring>()</argsstring>
+        <name>Update</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" line="15" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" bodystart="15" bodyend="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1554">
+        <label>Next_scene</label>
+        <link refid="class_next__scene"/>
+        <childnode refid="1555" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1555">
+        <label>MonoBehaviour</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1556">
+        <label>Next_scene</label>
+        <link refid="class_next__scene"/>
+        <childnode refid="1557" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1557">
+        <label>MonoBehaviour</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" line="7" column="1" bodyfile="D:/unity/Team2-4A/Assets/Script/UI_Scripts/Next_scene.cs" bodystart="6" bodyend="31"/>
+    <listofallmembers>
+      <member refid="class_next__scene_1a0b13c41dde4edb0d25e4090d5624f413" prot="private" virt="non-virtual"><scope>Next_scene</scope><name>Start</name></member>
+      <member refid="class_next__scene_1af5c0b18a3ef8e871a9848ae16d10436f" prot="private" virt="non-virtual"><scope>Next_scene</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

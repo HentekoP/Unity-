@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_548c585ee4250a3cac6c0ee6cffa9c16" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/BrokenVector/LowPolyBrickHouses</compoundname>
+    <innerdir refid="dir_74ccbe828ebc26e9246b1abb0925fb5e">D:/unity/Team2-4A/Assets/BrokenVector/LowPolyBrickHouses/Editor</innerdir>
+    <innerdir refid="dir_ff59079ebc470ada1be4d3cd5d2bcbc1">D:/unity/Team2-4A/Assets/BrokenVector/LowPolyBrickHouses/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/BrokenVector/LowPolyBrickHouses/"/>
+  </compounddef>
+</doxygen>

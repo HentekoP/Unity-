@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_properties_1_1_settings" kind="class" prot="package">
+    <compoundname>Properties::Settings</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ApplicationSettingsBase</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_properties_1_1_settings_1ab09de7d92b3358a2c0ab26aef9879a45" prot="private" static="yes" mutable="no">
+        <type><ref refid="class_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer>= ((<ref refid="class_properties_1_1_settings" kindref="compound">Settings</ref>)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new <ref refid="class_properties_1_1_settings" kindref="compound">Settings</ref>())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Properties/Settings.Designer.cs" line="18" column="1" bodyfile="D:/unity/Team2-4A/Properties/Settings.Designer.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_properties_1_1_settings_1a8a918e430a18aa37862e48ec0807b68a" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="class_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/unity/Team2-4A/Properties/Settings.Designer.cs" line="20" column="1" bodyfile="D:/unity/Team2-4A/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2251">
+        <label>Properties.Settings</label>
+        <link refid="class_properties_1_1_settings"/>
+        <childnode refid="2252" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2252">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2253">
+        <label>Properties.Settings</label>
+        <link refid="class_properties_1_1_settings"/>
+        <childnode refid="2254" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2253" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+      <node id="2254">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/unity/Team2-4A/Properties/Settings.Designer.cs" line="16" column="1" bodyfile="D:/unity/Team2-4A/Properties/Settings.Designer.cs" bodystart="16" bodyend="25"/>
+    <listofallmembers>
+      <member refid="class_properties_1_1_settings_1a8a918e430a18aa37862e48ec0807b68a" prot="public" virt="non-virtual"><scope>Properties::Settings</scope><name>Default</name></member>
+      <member refid="class_properties_1_1_settings_1ab09de7d92b3358a2c0ab26aef9879a45" prot="private" virt="non-virtual"><scope>Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

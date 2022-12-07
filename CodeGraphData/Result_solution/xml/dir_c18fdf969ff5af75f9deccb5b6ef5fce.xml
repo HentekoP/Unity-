@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_c18fdf969ff5af75f9deccb5b6ef5fce" kind="dir">
+    <compoundname>D:/unity/Team2-4A/Assets/SampleScenes/Scripts</compoundname>
+    <innerfile refid="_camera_switch_8cs">CameraSwitch.cs</innerfile>
+    <innerfile refid="_level_reset_8cs">LevelReset.cs</innerfile>
+    <innerfile refid="_particle_scene_controls_8cs">ParticleSceneControls.cs</innerfile>
+    <innerfile refid="_place_target_with_mouse_8cs">PlaceTargetWithMouse.cs</innerfile>
+    <innerfile refid="_slow_mo_button_8cs">SlowMoButton.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/unity/Team2-4A/Assets/SampleScenes/Scripts/"/>
+  </compounddef>
+</doxygen>
